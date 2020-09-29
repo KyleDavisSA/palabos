@@ -1,0 +1,332 @@
+Processing immersed surface geometries.
+The immersed surface 0 has 5904 vertices and 11808 triangles.
+The immersed surface 0 has a maximum triangle edge length of 8.2505249545e-04
+Vertices after scaling: (1.1343978000e+01, 1.2357648000e+01, 4.5502000200e+01)
+Vertices after scaling: (1.1104551000e+01, 1.2654963000e+01, 4.5363940200e+01)
+Vertices after scaling: (1.1342628000e+01, 1.2290553000e+01, 4.5396846900e+01)
+Vertices after scaling: (1.1103210000e+01, 1.2587868000e+01, 4.5258787800e+01)
+Vertices after scaling: (1.0865133000e+01, 1.2952269000e+01, 4.5225881100e+01)
+Vertices after scaling: (1.1341287000e+01, 1.2223458000e+01, 4.5291693600e+01)
+Vertices after scaling: (1.1610603000e+01, 1.1944458000e+01, 4.5506291400e+01)
+Vertices after scaling: (1.1611953000e+01, 1.2011553000e+01, 4.5611444700e+01)
+Vertices after scaling: (1.1879928000e+01, 1.1665458000e+01, 4.5720889200e+01)
+Vertices after scaling: (1.1898306000e+01, 1.1793897000e+01, 4.5970272000e+01)
+Vertices after scaling again: (-7.3955800000e-03, -6.2692800000e-03, 5.5777800000e-04)
+Vertices after scaling again: (-7.6616100000e-03, -5.9389300000e-03, 4.0437800000e-04)
+Vertices after scaling again: (-7.3970800000e-03, -6.3438300000e-03, 4.4094100000e-04)
+Vertices after scaling again: (-7.6631000000e-03, -6.0134800000e-03, 2.8754200000e-04)
+Vertices after scaling again: (-7.9276300000e-03, -5.6085900000e-03, 2.5097900000e-04)
+Vertices after scaling again: (-7.3985700000e-03, -6.4183800000e-03, 3.2410400000e-04)
+Vertices after scaling again: (-7.0993300000e-03, -6.7283800000e-03, 5.6254600000e-04)
+Vertices after scaling again: (-7.0978300000e-03, -6.6538300000e-03, 6.7938300000e-04)
+Vertices after scaling again: (-6.8000800000e-03, -7.0383800000e-03, 8.0098800000e-04)
+Vertices after scaling again: (-6.7796600000e-03, -6.8956700000e-03, 1.0780800000e-03)
+Vertices after scaling a third time: (1.1343978000e+01, 1.2357648000e+01, 4.5502000200e+01)
+Vertices after scaling a third time: (1.1104551000e+01, 1.2654963000e+01, 4.5363940200e+01)
+Vertices after scaling a third time: (1.1342628000e+01, 1.2290553000e+01, 4.5396846900e+01)
+Vertices after scaling a third time: (1.1103210000e+01, 1.2587868000e+01, 4.5258787800e+01)
+Vertices after scaling a third time: (1.0865133000e+01, 1.2952269000e+01, 4.5225881100e+01)
+Vertices after scaling a third time: (1.1341287000e+01, 1.2223458000e+01, 4.5291693600e+01)
+Vertices after scaling a third time: (1.1610603000e+01, 1.1944458000e+01, 4.5506291400e+01)
+Vertices after scaling a third time: (1.1611953000e+01, 1.2011553000e+01, 4.5611444700e+01)
+Vertices after scaling a third time: (1.1879928000e+01, 1.1665458000e+01, 4.5720889200e+01)
+Vertices after scaling a third time: (1.1898306000e+01, 1.1793897000e+01, 4.5970272000e+01)
+The immersed surface 1 has 3649 vertices and 6436 triangles.
+The immersed surface 1 has a maximum triangle edge length of 1.5588580321e-03
+
+WARNING: The maximum triangle edge length for the immersed surface 1 is greater than dx.
+         The immersed boundary method might not work in an optimal way. Surface refinement is recommended.
+
+Vertices after scaling: (1.2825279000e+01, 1.2357648000e+01, 4.5502000200e+01)
+Vertices after scaling: (1.2638601000e+01, 1.2654963000e+01, 4.5363940200e+01)
+Vertices after scaling: (1.2639465000e+01, 1.2290553000e+01, 4.5396846900e+01)
+Vertices after scaling: (1.2826746000e+01, 1.2587868000e+01, 4.5258787800e+01)
+Vertices after scaling: (1.2453660000e+01, 1.2952269000e+01, 4.5225881100e+01)
+Vertices after scaling: (1.2456135000e+01, 1.2223458000e+01, 4.5291693600e+01)
+Vertices after scaling: (1.2276036000e+01, 1.1944458000e+01, 4.5506291400e+01)
+Vertices after scaling: (1.2276567000e+01, 1.2011553000e+01, 4.5611444700e+01)
+Vertices after scaling: (1.2099411000e+01, 1.1665458000e+01, 4.5720889200e+01)
+Vertices after scaling: (1.2100743000e+01, 1.1793897000e+01, 4.5970272000e+01)
+Vertices after scaling again: (-5.7496900000e-03, -7.9344000000e-03, -1.2172300000e-03)
+Vertices after scaling again: (-5.9571100000e-03, -7.7777600000e-03, -1.2162000000e-03)
+Vertices after scaling again: (-5.9561500000e-03, -7.7796600000e-03, -9.1848100000e-04)
+Vertices after scaling again: (-5.7480600000e-03, -7.9352600000e-03, -9.2093600000e-04)
+Vertices after scaling again: (-6.1626000000e-03, -7.6183400000e-03, -1.2142900000e-03)
+Vertices after scaling again: (-6.1598500000e-03, -7.6191600000e-03, -9.1377500000e-04)
+Vertices after scaling again: (-6.3599600000e-03, -7.4513300000e-03, -1.2116900000e-03)
+Vertices after scaling again: (-6.3593700000e-03, -7.4534400000e-03, -9.0699100000e-04)
+Vertices after scaling again: (-6.5562100000e-03, -7.2825600000e-03, -1.2088500000e-03)
+Vertices after scaling again: (-6.5547300000e-03, -7.2823700000e-03, -8.9981800000e-04)
+Vertices after scaling a third time: (1.2825279000e+01, 1.2357648000e+01, 4.5502000200e+01)
+Vertices after scaling a third time: (1.2638601000e+01, 1.2654963000e+01, 4.5363940200e+01)
+Vertices after scaling a third time: (1.2639465000e+01, 1.2290553000e+01, 4.5396846900e+01)
+Vertices after scaling a third time: (1.2826746000e+01, 1.2587868000e+01, 4.5258787800e+01)
+Vertices after scaling a third time: (1.2453660000e+01, 1.2952269000e+01, 4.5225881100e+01)
+Vertices after scaling a third time: (1.2456135000e+01, 1.2223458000e+01, 4.5291693600e+01)
+Vertices after scaling a third time: (1.2276036000e+01, 1.1944458000e+01, 4.5506291400e+01)
+Vertices after scaling a third time: (1.2276567000e+01, 1.2011553000e+01, 4.5611444700e+01)
+Vertices after scaling a third time: (1.2099411000e+01, 1.1665458000e+01, 4.5720889200e+01)
+Vertices after scaling a third time: (1.2100743000e+01, 1.1793897000e+01, 4.5970272000e+01)
+The immersed surface 2 has 18330 vertices and 36116 triangles.
+The immersed surface 2 has a maximum triangle edge length of 2.1031237197e-03
+
+WARNING: The maximum triangle edge length for the immersed surface 2 is greater than dx.
+         The immersed boundary method might not work in an optimal way. Surface refinement is recommended.
+
+Vertices after scaling: (1.0996767000e+01, 1.2357648000e+01, 4.5502000200e+01)
+Vertices after scaling: (1.0997586000e+01, 1.2654963000e+01, 4.5363940200e+01)
+Vertices after scaling: (1.0279476000e+01, 1.2290553000e+01, 4.5396846900e+01)
+Vertices after scaling: (1.0279764000e+01, 1.2587868000e+01, 4.5258787800e+01)
+Vertices after scaling: (1.1799882000e+01, 1.2952269000e+01, 4.5225881100e+01)
+Vertices after scaling: (1.1805228000e+01, 1.2223458000e+01, 4.5291693600e+01)
+Vertices after scaling: (1.0998576000e+01, 1.1944458000e+01, 4.5506291400e+01)
+Vertices after scaling: (1.0281294000e+01, 1.2011553000e+01, 4.5611444700e+01)
+Vertices after scaling: (1.1806794000e+01, 1.1665458000e+01, 4.5720889200e+01)
+Vertices after scaling: (1.5736689000e+01, 1.1793897000e+01, 4.5970272000e+01)
+Vertices after scaling again: (-7.7813700000e-03, -7.7695000000e-03, -4.9103900000e-02)
+Vertices after scaling again: (-7.7804600000e-03, -7.7736700000e-03, -4.7745600000e-02)
+Vertices after scaling again: (-8.5783600000e-03, -6.8764700000e-03, -4.7745500000e-02)
+Vertices after scaling again: (-8.5780400000e-03, -6.8765100000e-03, -4.9103200000e-02)
+Vertices after scaling again: (-6.8890200000e-03, -8.5704200000e-03, -4.9103000000e-02)
+Vertices after scaling again: (-6.8830800000e-03, -8.5722900000e-03, -4.7745300000e-02)
+Vertices after scaling again: (-7.7793600000e-03, -7.7761900000e-03, -4.6291400000e-02)
+Vertices after scaling again: (-8.5763400000e-03, -6.8780500000e-03, -4.6291200000e-02)
+Vertices after scaling again: (-6.8813400000e-03, -8.5737200000e-03, -4.6291100000e-02)
+Vertices after scaling again: (-2.5147900000e-03, -1.0702300000e-02, -4.9098500000e-02)
+Vertices after scaling a third time: (1.0996767000e+01, 1.2357648000e+01, 4.5502000200e+01)
+Vertices after scaling a third time: (1.0997586000e+01, 1.2654963000e+01, 4.5363940200e+01)
+Vertices after scaling a third time: (1.0279476000e+01, 1.2290553000e+01, 4.5396846900e+01)
+Vertices after scaling a third time: (1.0279764000e+01, 1.2587868000e+01, 4.5258787800e+01)
+Vertices after scaling a third time: (1.1799882000e+01, 1.2952269000e+01, 4.5225881100e+01)
+Vertices after scaling a third time: (1.1805228000e+01, 1.2223458000e+01, 4.5291693600e+01)
+Vertices after scaling a third time: (1.0998576000e+01, 1.1944458000e+01, 4.5506291400e+01)
+Vertices after scaling a third time: (1.0281294000e+01, 1.2011553000e+01, 4.5611444700e+01)
+Vertices after scaling a third time: (1.1806794000e+01, 1.1665458000e+01, 4.5720889200e+01)
+Vertices after scaling a third time: (1.5736689000e+01, 1.1793897000e+01, 4.5970272000e+01)
+Generating fluid blocks.
+Dynamics: Smagorinsky BGK.
+xDomain = [-2.0000000000e-02, 2.0000000000e-02]
+yDomain = [-2.0000000000e-02, 2.0000000000e-02]
+zDomain = [-5.0000000000e-02, 5.0000000000e-02]
+movingSurfaceFileNames[0] = valve.stl
+staticSurfaceFileNames[0] = Fixed.stl
+staticSurfaceFileNames[1] = Wall.stl
+refineSurfaceMeshes = false
+flowDirection = 2
+characteristicLength = 1.0000000000e-02
+resolution = 10
+dt = 1.0000000000e-04
+maxIter = 5000
+statIter = 1
+outIter = 1
+cpIter = -1
+abIter = 16
+startIter = 400
+ibIter = 5
+abortFileName = abort
+xmlContinueFileName = continue.xml
+baseFileName = checkpoint_
+rho = 1.0000000000e+03
+nu = 2.5000000000e-05
+cSmago = 1.4000000000e-01
+inletVelocity = [0.0000000000e+00, 0.0000000000e+00, 5.0000000000e-01]
+lateralPeriodic = true
+angularVelocities[0] = [0.0000000000e+00, 0.0000000000e+00, 0.0000000000e+00]
+rotationAxisPoints[0] = [0.0000000000e+00, 0.0000000000e+00, 0.0000000000e+00]
+outflowBcType = 2
+spongeWidths[0] = 0.0000000000e+00
+spongeWidths[1] = 5.0000000000e-01
+spongeWidths[2] = 0.0000000000e+00
+spongeWidths[3] = 0.0000000000e+00
+spongeWidths[4] = 0.0000000000e+00
+spongeWidths[5] = 0.0000000000e+00
+useSmagorinskySponges = false
+torqueAxisPoints[0] = [-1.5000000000e-01, 0.0000000000e+00, 0.0000000000e+00]
+torqueAxisDirections[0] = [0.0000000000e+00, 1.0000000000e+00, 0.0000000000e+00]
+useParallelIO = true
+precision = DBL
+lx = 4.0000000000e-02
+ly = 4.0000000000e-02
+lz = 1.0000000000e-01
+nx = 36
+ny = 36
+nz = 91
+rho_LB = 1.0000000000e+00
+inletVelocity_LB = [0.0000000000e+00, 0.0000000000e+00, 4.5000000000e-02]
+angularVelocities_LB[0] = [0.0000000000e+00, 0.0000000000e+00, 0.0000000000e+00]
+rotationAxisPoints_LB[0] = [1.8000000000e+01, 1.8000000000e+01, 4.5000000000e+01]
+numSpongeCells[0] = 0
+numSpongeCells[1] = 450
+numSpongeCells[2] = 0
+numSpongeCells[3] = 0
+numSpongeCells[4] = 0
+numSpongeCells[5] = 0
+torqueAxisPoints_LB[0] = [-1.1700000000e+02, 1.8000000000e+01, 4.5000000000e+01]
+Re = 2.0000000000e+02
+omega = 1.9759917008e+00
+tau = 5.0607500000e-01
+dx = 1.1111111111e-03
+dt / dx = 9.0000000000e-02
+dt / (dx * dx) = 8.1000000000e+01
+uLB = 4.5000000000e-02
+physicalLocation = (-2.0000000000e-02, -2.0000000000e-02, -5.0000000000e-02)
+inlet = [0, 35, 0, 35, 0, 0]
+outlet = [0, 35, 0, 35, 90, 90]
+lateral1 = [0, 0, 0, 35, 1, 89]
+lateral2 = [35, 35, 0, 35, 1, 89]
+lateral3 = [1, 34, 0, 0, 1, 89]
+lateral4 = [1, 34, 35, 35, 1, 89]
+smallEnvelopeWidth = 1
+largeEnvelopeWidth = 4
+saveDynamicContent = true
+fileNamePadding = 8
+incompressibleModel = false
+
+Generating viscosity sponge zones.
+Generating outer domain boundary conditions.
+Periodic lateral boundaries.
+CommSize: 2 -> and commRank: 0
+(0) 16:21:59 [impl::SolverInterfaceImpl]:121 in configure: [0mThis is preCICE version 2.0.2
+(0) 16:21:59 [impl::SolverInterfaceImpl]:122 in configure: [0mRevision info: v2.0.1-4-g0c88bb30-dirty
+(0) 16:21:59 [impl::SolverInterfaceImpl]:123 in configure: [0mConfiguring preCICE with configuration: "precice-config.xml"
+(0) 16:21:59 [impl::SolverInterfaceImpl]:1422 in initializeMasterSlaveCommunication: [0mSetting up communication to slaves
+Number of moving surfaces: 1
+Number of vertices: 5904 and 5904
+(1) 16:22:00 [impl::SolverInterfaceImpl]:203 in initialize: [0mSetting up master communication to coupling partner/s
+Vertices on IB interface has been set.
+(0) 16:22:00 [impl::SolverInterfaceImpl]:203 in initialize: [0mSetting up master communication to coupling partner/s
+(1) 16:22:00 [impl::SolverInterfaceImpl]:212 in initialize: [0mMasters are connected
+(0) 16:22:00 [impl::SolverInterfaceImpl]:212 in initialize: [0mMasters are connected
+(1) 16:22:00 [impl::SolverInterfaceImpl]:216 in initialize: [0mSetting up preliminary slaves communication to coupling partner/s
+(1) 16:22:00 [partition::ReceivedPartition]:61 in communicate: [0mReceive global mesh Calculix_Mesh
+(0) 16:22:00 [impl::SolverInterfaceImpl]:216 in initialize: [0mSetting up preliminary slaves communication to coupling partner/s
+(0) 16:22:00 [partition::ReceivedPartition]:61 in communicate: [0mReceive global mesh Calculix_Mesh
+(1) 16:22:00 [partition::ProvidedPartition]:101 in prepare: [0mPrepare partition for mesh palabos_Mesh_disp
+(0) 16:22:00 [partition::ProvidedPartition]:101 in prepare: [0mPrepare partition for mesh palabos_Mesh_disp
+(1) 16:22:00 [partition::ProvidedPartition]:70 in communicate: [0mGather mesh palabos_Mesh_disp
+(0) 16:22:00 [partition::ProvidedPartition]:70 in communicate: [0mGather mesh palabos_Mesh_disp
+(1) 16:22:00 [partition::ProvidedPartition]:87 in communicate: [0mSend global mesh palabos_Mesh_disp
+(1) 16:22:00 [partition::ProvidedPartition]:101 in prepare: [0mPrepare partition for mesh palabos_Mesh_forces
+(0) 16:22:00 [partition::ProvidedPartition]:87 in communicate: [0mSend global mesh palabos_Mesh_disp
+(0) 16:22:00 [partition::ProvidedPartition]:101 in prepare: [0mPrepare partition for mesh palabos_Mesh_forces
+(1) 16:22:00 [partition::ProvidedPartition]:70 in communicate: [0mGather mesh palabos_Mesh_forces
+(1) 16:22:00 [partition::ProvidedPartition]:87 in communicate: [0mSend global mesh palabos_Mesh_forces
+(1) 16:22:00 [partition::ReceivedPartition]:327 in filterByBoundingBox: [0mBroadcast mesh Calculix_Mesh
+(0) 16:22:00 [partition::ProvidedPartition]:70 in communicate: [0mGather mesh palabos_Mesh_forces
+(0) 16:22:00 [partition::ProvidedPartition]:87 in communicate: [0mSend global mesh palabos_Mesh_forces
+(0) 16:22:00 [partition::ReceivedPartition]:327 in filterByBoundingBox: [0mBroadcast mesh Calculix_Mesh
+(0) 16:22:00 [partition::ReceivedPartition]:339 in filterByBoundingBox: [0mFilter mesh Calculix_Mesh by bounding box on slaves
+(1) 16:22:00 [partition::ReceivedPartition]:339 in filterByBoundingBox: [0mFilter mesh Calculix_Mesh by bounding box on slaves
+(0) 16:22:01 [mapping::NearestNeighborMapping]:57 in computeMapping: [0mMapping distance min:0 max:0.000162635 avg: 3.08082e-06 var: 3.28412e-10 cnt: 5904
+(1) 16:22:01 [mapping::NearestNeighborMapping]:57 in computeMapping: [0mMapping distance min:0 max:0.000162635 avg: 3.08082e-06 var: 3.28412e-10 cnt: 5904
+(1) 16:22:01 [mapping::NearestNeighborMapping]:82 in computeMapping: [0mMapping distance min:5.01597e-09 max:5.01597e-09 avg: 5.01597e-09 var: 0 cnt: 1
+(0) 16:22:01 [mapping::NearestNeighborMapping]:82 in computeMapping: [0mMapping distance min:0 max:0.000162635 avg: 3.08082e-06 var: 3.28412e-10 cnt: 5904
+(1) 16:22:01 [partition::ReceivedPartition]:134 in compute: [0mFilter mesh Calculix_Mesh by mappings
+(0) 16:22:01 [partition::ReceivedPartition]:134 in compute: [0mFilter mesh Calculix_Mesh by mappings
+(0) 16:22:01 [partition::ReceivedPartition]:175 in compute: [0mFeedback distribution for mesh Calculix_Mesh
+(1) 16:22:01 [partition::ReceivedPartition]:175 in compute: [0mFeedback distribution for mesh Calculix_Mesh
+(0) 16:22:01 [impl::SolverInterfaceImpl]:224 in initialize: [0mSetting up slaves communication to coupling partner/s
+(1) 16:22:01 [impl::SolverInterfaceImpl]:224 in initialize: [0mSetting up slaves communication to coupling partner/s
+(0) 16:22:01 [impl::SolverInterfaceImpl]:230 in initialize: [0mSlaves are connected
+(1) 16:22:01 [impl::SolverInterfaceImpl]:230 in initialize: [0mSlaves are connected
+(1) 16:22:01 [impl::SolverInterfaceImpl]:262 in initialize: [0mit 1 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | write-iteration-checkpoint | 
+(0) 16:22:01 [impl::SolverInterfaceImpl]:262 in initialize: [0mit 1 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | write-iteration-checkpoint | 
+Initial average kinetic energy: 0.0000000000e+00
+
+
+Starting simulation.
+Output to disk at iteration: 0
+
+Time window is complete.
+At iteration 1, t = 1.0000000000e-04
+Average kinetic energy: 2.1182936271e-05
+Number of surfaces: 5904
+forceConversion: 3.0483158055e-01
+Force on surface: (-1.2189663256e-08, -6.2557562389e-09, 7.3739050485e-09)
+Force on surface: (-1.0600134428e-08, -5.5205858281e-09, 6.4939953400e-09)
+Force on surface: (-6.2554884989e-09, -3.9327678865e-09, 2.5894207772e-09)
+(1) 16:22:02 [impl::SolverInterfaceImpl]:1257 in mapWrittenData: [0mCompute write mapping from mesh "palabos_Mesh_forces" to mesh "Calculix_Mesh".
+Forces have been written to preCICE.
+(0) 16:22:02 [impl::SolverInterfaceImpl]:1257 in mapWrittenData: [0mCompute write mapping from mesh "palabos_Mesh_forces" to mesh "Calculix_Mesh".
+(1) 16:22:02 [mapping::NearestNeighborMapping]:82 in computeMapping: [0mMapping distance min:5.01597e-09 max:5.01597e-09 avg: 5.01597e-09 var: 0 cnt: 1
+(0) 16:22:02 [mapping::NearestNeighborMapping]:82 in computeMapping: [0mMapping distance min:0 max:0.000162635 avg: 3.08082e-06 var: 3.28412e-10 cnt: 5904
+(1) 16:22:04 [impl::SolverInterfaceImpl]:1307 in mapReadData: [0mCompute read mapping from mesh "Calculix_Mesh" to mesh "palabos_Mesh_disp".
+(0) 16:22:04 [impl::SolverInterfaceImpl]:1307 in mapReadData: [0mCompute read mapping from mesh "Calculix_Mesh" to mesh "palabos_Mesh_disp".
+(1) 16:22:04 [mapping::NearestNeighborMapping]:57 in computeMapping: [0mMapping distance min:0 max:0.000162635 avg: 3.08082e-06 var: 3.28412e-10 cnt: 5904
+(0) 16:22:04 [mapping::NearestNeighborMapping]:57 in computeMapping: [0mMapping distance min:0 max:0.000162635 avg: 3.08082e-06 var: 3.28412e-10 cnt: 5904
+(1) 16:22:04 [impl::SolverInterfaceImpl]:378 in advance: [0mit 2 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+(0) 16:22:04 [impl::SolverInterfaceImpl]:378 in advance: [0mit 2 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+Time for one fluid iteration: 2.9090112800e-01
+
+Output to disk at iteration: 1
+
+Displacements have been read from preCICE.
+At iteration 1, t = 1.0000000000e-04
+Average kinetic energy: 2.1182936271e-05
+Number of surfaces: 5904
+forceConversion: 3.0483158055e-01
+Force on surface: (-1.2189663019e-08, -6.2557557149e-09, 7.3739058837e-09)
+Force on surface: (-1.0600134265e-08, -5.5205855156e-09, 6.4939958718e-09)
+Force on surface: (-6.2554884438e-09, -3.9327677421e-09, 2.5894211297e-09)
+Forces have been written to preCICE.
+(0) 16:22:06 [impl::SolverInterfaceImpl]:378 in advance: [0mit 3 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+Time for one fluid iteration: 0.0000000000e+00
+
+Output to disk at iteration: 1
+(1) 16:22:06 [impl::SolverInterfaceImpl]:378 in advance: [0mit 3 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+
+Displacements have been read from preCICE.
+At iteration 1, t = 1.0000000000e-04
+Average kinetic energy: 2.1182936271e-05
+Number of surfaces: 5904
+forceConversion: 3.0483158055e-01
+Force on surface: (-1.2189660892e-08, -6.2557509947e-09, 7.3739134045e-09)
+Force on surface: (-1.0600132796e-08, -5.5205827022e-09, 6.4940006608e-09)
+Force on surface: (-6.2554879474e-09, -3.9327664415e-09, 2.5894243041e-09)
+Forces have been written to preCICE.
+(0) 16:22:09 [impl::SolverInterfaceImpl]:378 in advance: [0mit 4 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+Time for one fluid iteration: 0.0000000000e+00
+
+Output to disk at iteration: 1
+(1) 16:22:09 [impl::SolverInterfaceImpl]:378 in advance: [0mit 4 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+
+Displacements have been read from preCICE.
+At iteration 1, t = 1.0000000000e-04
+Average kinetic energy: 2.1182936271e-05
+Number of surfaces: 5904
+forceConversion: 3.0483158055e-01
+Force on surface: (-1.2189660892e-08, -6.2557509943e-09, 7.3739134050e-09)
+Force on surface: (-1.0600132796e-08, -5.5205827021e-09, 6.4940006612e-09)
+Force on surface: (-6.2554879474e-09, -3.9327664413e-09, 2.5894243043e-09)
+Forces have been written to preCICE.
+(0) 16:22:11 [impl::SolverInterfaceImpl]:378 in advance: [0mit 5 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+Time for one fluid iteration: 0.0000000000e+00
+
+Output to disk at iteration: 1
+(1) 16:22:11 [impl::SolverInterfaceImpl]:378 in advance: [0mit 5 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+
+Displacements have been read from preCICE.
+At iteration 1, t = 1.0000000000e-04
+Average kinetic energy: 2.1182936271e-05
+Number of surfaces: 5904
+forceConversion: 3.0483158055e-01
+Force on surface: (-1.2189660892e-08, -6.2557509938e-09, 7.3739134055e-09)
+Force on surface: (-1.0600132796e-08, -5.5205827020e-09, 6.4940006616e-09)
+Force on surface: (-6.2554879474e-09, -3.9327664412e-09, 2.5894243046e-09)
+Forces have been written to preCICE.
+(0) 16:22:14 [impl::SolverInterfaceImpl]:378 in advance: [0mit 6 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+Time for one fluid iteration: 0.0000000000e+00
+
+Output to disk at iteration: 1
+(1) 16:22:14 [impl::SolverInterfaceImpl]:378 in advance: [0mit 6 of 30 | dt# 1 of 10 | t 0 | dt 0.0001 | max dt 0.0001 | ongoing yes | dt complete no | read-iteration-checkpoint | 
+
+Displacements have been read from preCICE.
+At iteration 1, t = 1.0000000000e-04
+Average kinetic energy: 2.1182936271e-05
+Number of surfaces: 5904
+forceConversion: 3.0483158055e-01
+Force on surface: (-1.2189659010e-08, -6.2557391178e-09, 7.3739265913e-09)
+Force on surface: (-1.0600127998e-08, -5.5205798682e-09, 6.4940109014e-09)
+Force on surface: (-6.2554873123e-09, -3.9327635523e-09, 2.5894302264e-09)
+Forces have been written to preCICE.
+(0) 16:22:15 [com::SocketCommunication]:705 in receive: [31mERROR: [0mReceive failed: read: End of file

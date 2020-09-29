@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding='UTF-8'?>
+
+<precice-configuration>
+
+     <log>
+        <sink type="stream" output="stdout" filter="%Severity% > debug" enabled="true"/>
+    </log>		
+
+   <solver-interface dimensions="3">
+
+      <data:vector name="Forces0"/>
+      <data:vector name="Displacements0"/>
+
+      <mesh name="palabos_Mesh">
+        <use-data name="Displacements0"/>
+        <use-data name="Forces0"/>
+    </mesh>
+
+      <mesh name="Calculix_Mesh">
+         <use-data name="Displacements0"/>
+         <use-data name="Forces0"/>
+      </mesh>
+
+      <participant name="palabos_Solver">
+         <use-mesh name="Calculix_Mesh" from="Calculix"/>
+         <use-mesh name="palabos_Mesh" provide="yes"/>
+         <write-data name="Forces0" mesh="palabos_Mesh"/>
+         <read-data  name="Displacements0" mesh="palabos_Mesh"/>
+	 <export:vtk directory="preCICE-output" />
+         <mapping:nearest-neighbor
+            direction="write" from="palabos_Mesh" to="Calculix_Mesh" constraint="conservative" timing="initial"/>
+         <mapping:nearest-neighbor
+	        direction="read" from="Calculix_Mesh" to="palabos_Mesh" constraint="consistent" timing="initial"/>
+      </participant>
+
+      <participant name="Calculix">
+         <use-mesh name="Calculix_Mesh" provide="yes"/>
+        <use-mesh name="palabos_Mesh" from="palabos_Solver"/>
+         <write-data name="Displacements0" mesh="Calculix_Mesh"/>
+         <read-data  name="Forces0" mesh="Calculix_Mesh"/>
+      </participant>
+
+      <m2n:sockets from="palabos_Solver" to="Calculix"/>
+      
+      <coupling-scheme:serial-explicit>
+      <!--coupling-scheme:serial-implicit-->
+           <participants first="palabos_Solver" second="Calculix"/>
+           <max-time-windows value="1000"/>
+           <time-window-size value="1e-4" />
+           <exchange data="Forces0" mesh="Calculix_Mesh" from="palabos_Solver" to="Calculix"/>
+           <exchange data="Displacements0" mesh="Calculix_Mesh" from="Calculix" to="palabos_Solver" />
+
+       <!--    <post-processing:IQN-ILS>
+            <data name="Displacements0" mesh="Calculix_Mesh"/>
+            <preconditioner type="residual-sum"/>
+            <filter type="QR2" limit="1e-2"/>
+            <initial-relaxation value="0.1"/>
+            <max-used-iterations value="100"/>
+            <timesteps-reused value="2"/>
+           </post-processing:IQN-ILS>	-->	
+
+       <!--     <post-processing:aitken>
+              <data name="Displacements0" mesh="Calculix_Mesh"/>
+              <initial-relaxation value="0.05"/>
+           </post-processing:aitken>		-->		
+           
+      </coupling-scheme:serial-explicit>
+      <!--/coupling-scheme:serial-implicit-->
+
+
+
+
+
+
+   </solver-interface>
+
+</precice-configuration>
